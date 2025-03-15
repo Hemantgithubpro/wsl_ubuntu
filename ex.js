@@ -1,2 +1,1 @@
-console.log('helo')
-console.log(process.platform)
+console.log('helo');
